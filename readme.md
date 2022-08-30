@@ -22,8 +22,8 @@ This is the second mini-challenge among the 15 Ineuron-projects.
 
 ### Links
 
-- Code File URL: [github.com](https://github.com/Jyotimoykathar/)
-- Live Site URL: [netlify.app](https://)
+- Code File URL: [github.com](https://github.com/Jyotimoykathar/Project-02)
+- Live Site URL: [netlify.app](https://project-02-restaurant.netlify.app/)
 
 ## My process
 
