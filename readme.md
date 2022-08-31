@@ -9,6 +9,7 @@ This is the second mini-challenge among the 15 Ineuron-projects.
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [Time required](#time-required)
   - [What I learned](#continues-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
@@ -32,6 +33,10 @@ This is the second mini-challenge among the 15 Ineuron-projects.
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox Css
+
+### Time required
+
+Nearly two day required to get the desired position of the image.
 
 ### What I learned
 
